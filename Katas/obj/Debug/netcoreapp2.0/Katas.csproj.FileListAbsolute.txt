@@ -1,0 +1,14 @@
+c:\users\acivico.gowaiicorp\source\repos\Katas\Katas\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\acivico.gowaiicorp\source\repos\Katas\Katas\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+c:\users\acivico.gowaiicorp\source\repos\Katas\Katas\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+c:\users\acivico.gowaiicorp\source\repos\Katas\Katas\bin\Debug\netcoreapp2.0\Katas.deps.json
+c:\users\acivico.gowaiicorp\source\repos\Katas\Katas\bin\Debug\netcoreapp2.0\Katas.runtimeconfig.json
+c:\users\acivico.gowaiicorp\source\repos\Katas\Katas\bin\Debug\netcoreapp2.0\Katas.runtimeconfig.dev.json
+c:\users\acivico.gowaiicorp\source\repos\Katas\Katas\bin\Debug\netcoreapp2.0\Katas.dll
+c:\users\acivico.gowaiicorp\source\repos\Katas\Katas\bin\Debug\netcoreapp2.0\Katas.pdb
+c:\users\acivico.gowaiicorp\source\repos\Katas\Katas\obj\Debug\netcoreapp2.0\Katas.csprojAssemblyReference.cache
+c:\users\acivico.gowaiicorp\source\repos\Katas\Katas\obj\Debug\netcoreapp2.0\Katas.csproj.CoreCompileInputs.cache
+c:\users\acivico.gowaiicorp\source\repos\Katas\Katas\obj\Debug\netcoreapp2.0\Katas.AssemblyInfoInputs.cache
+c:\users\acivico.gowaiicorp\source\repos\Katas\Katas\obj\Debug\netcoreapp2.0\Katas.AssemblyInfo.cs
+c:\users\acivico.gowaiicorp\source\repos\Katas\Katas\obj\Debug\netcoreapp2.0\Katas.dll
+c:\users\acivico.gowaiicorp\source\repos\Katas\Katas\obj\Debug\netcoreapp2.0\Katas.pdb
