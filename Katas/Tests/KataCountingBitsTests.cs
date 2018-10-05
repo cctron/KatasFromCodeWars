@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace Katas
+namespace Katas.Tests
 {
     public class KataCountingBitsTests
     {
