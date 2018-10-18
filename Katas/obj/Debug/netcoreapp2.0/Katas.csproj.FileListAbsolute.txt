@@ -26,3 +26,17 @@ C:\Users\acivico\source\repos\Katas\Katas\obj\Debug\netcoreapp2.0\Katas.Assembly
 C:\Users\acivico\source\repos\Katas\Katas\obj\Debug\netcoreapp2.0\Katas.AssemblyInfo.cs
 C:\Users\acivico\source\repos\Katas\Katas\obj\Debug\netcoreapp2.0\Katas.dll
 C:\Users\acivico\source\repos\Katas\Katas\obj\Debug\netcoreapp2.0\Katas.pdb
+D:\Visual Projects\KatasFromCodeWars\Katas\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Visual Projects\KatasFromCodeWars\Katas\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Visual Projects\KatasFromCodeWars\Katas\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Visual Projects\KatasFromCodeWars\Katas\bin\Debug\netcoreapp2.0\Katas.deps.json
+D:\Visual Projects\KatasFromCodeWars\Katas\bin\Debug\netcoreapp2.0\Katas.runtimeconfig.json
+D:\Visual Projects\KatasFromCodeWars\Katas\bin\Debug\netcoreapp2.0\Katas.runtimeconfig.dev.json
+D:\Visual Projects\KatasFromCodeWars\Katas\bin\Debug\netcoreapp2.0\Katas.dll
+D:\Visual Projects\KatasFromCodeWars\Katas\bin\Debug\netcoreapp2.0\Katas.pdb
+D:\Visual Projects\KatasFromCodeWars\Katas\obj\Debug\netcoreapp2.0\Katas.csprojAssemblyReference.cache
+D:\Visual Projects\KatasFromCodeWars\Katas\obj\Debug\netcoreapp2.0\Katas.csproj.CoreCompileInputs.cache
+D:\Visual Projects\KatasFromCodeWars\Katas\obj\Debug\netcoreapp2.0\Katas.AssemblyInfoInputs.cache
+D:\Visual Projects\KatasFromCodeWars\Katas\obj\Debug\netcoreapp2.0\Katas.AssemblyInfo.cs
+D:\Visual Projects\KatasFromCodeWars\Katas\obj\Debug\netcoreapp2.0\Katas.dll
+D:\Visual Projects\KatasFromCodeWars\Katas\obj\Debug\netcoreapp2.0\Katas.pdb

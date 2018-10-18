@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace Katas.Business
@@ -11,51 +12,43 @@ namespace Katas.Business
             if (String.IsNullOrEmpty(text)) return text;
             if (n <= 0) return text;
 
-            return DoEncryptation(text,n);
+            return DoEncryptationRefactor(text, n);
         }
 
-        private static string DoEncryptation(string text, int n)
+        private static string DoEncryptationRefactor(string text, int n)
         {
-           string textToEncrypted = string.Empty;
-            int i = 1;
-            int loop = 1;
-            string finalText = string.Empty;
+            List<string> OddPosition;
+            List<string> EvenPosition;
+            string result;
+            int loop = 0;
+            int i = 0;
 
-
-            while (loop <= n)
+            result = text;
+            while (loop < n)
             {
-                if (loop > 1)
+                OddPosition = new List<string>();
+                EvenPosition = new List<string>();
+                i = 0;
+
+                while (i <= result.Length - 1)
                 {
-                    text = textToEncrypted;
-                    textToEncrypted = string.Empty;
+                    if (i % 2 == 0) OddPosition.Add(result.Substring(i, 1));
+                    if (i % 2 != 0) EvenPosition.Add(result.Substring(i, 1));
+
+                    ++i;
                 }
 
-
-                while (textToEncrypted.Length != text.Length)
-                {
-                    if (!string.IsNullOrEmpty(textToEncrypted))
-                    { i = 0; }
-                    else { i = 1; }
-
-                    while (i <= text.Length - 1)
-                    {
-                        textToEncrypted = string.Concat(textToEncrypted, ExtractChar(text, i));
-
-                        i += 2;
-                    }
-                }
+                result = string.Concat(EvenPosition.Select(x => x).Aggregate((x, j) => x + j),
+                    OddPosition.Select(x => x).Aggregate((x, j) => x + j));
 
                 ++loop;
-
             }
 
-            finalText = textToEncrypted;
-            
+            return result;
 
-            return finalText;
         }
 
-       
+
         private static string ExtractChar(string text, int i)
         {
             return text.Substring(i, 1);
@@ -69,6 +62,7 @@ namespace Katas.Business
             if (n <= 0) return encryptedText;
 
             return encryptedText;
+
         }
     }
 }
